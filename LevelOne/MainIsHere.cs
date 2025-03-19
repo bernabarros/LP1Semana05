@@ -14,7 +14,8 @@ namespace LevelOne
         private static void Main(string[] args)
         {
             Console.WriteLine("Hello LP1!");
-            Console.WriteLine("Bad guy?");
+            Console.WriteLine("Nice day?");
+            Console.WriteLine("Bye!");
         }
         /// <summary>
         /// Cool Feature method
