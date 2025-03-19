@@ -12,6 +12,11 @@ namespace LevelOne
         {
             Console.WriteLine("Hello LP1!");
         }
+        /// <summary>
+        /// Cool Feature method
+        /// </summary>
+        /// <param name="feature_string">Cool Feature print</param>
+        /// <returns>feature_string</returns>
         public static string NewFeature(string feature_string)
         {
             feature_string = "Cool feature";
