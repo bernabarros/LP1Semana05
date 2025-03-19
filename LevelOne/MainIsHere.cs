@@ -2,6 +2,9 @@
 
 namespace LevelOne
 {
+    /// <summary>
+    /// Main method is here
+    /// </summary>
     public class Program
     {
         private static void Main(string[] args)
